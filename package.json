@@ -1,0 +1,47 @@
+{
+  "name": "gulp-json-to-yml",
+  "version": "0.0.3",
+  "description": "Convert JSON to YAML, but with more secure dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp-plugin",
+    "gulp",
+    "yaml",
+    "yml",
+    "json",
+    "stream"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/topherzee/gulp-json-to-yml.git"
+  },
+  "homepage": "https://github.com/topherzee/gulp-json-to-yml",
+  "author": {
+    "name": "Christopher Zimmermann",
+    "email": "topher@dandelion.org"
+  },
+  "based-on-work-by-author": {
+    "name": "Cristian Trifan",
+    "email": "criss.trifan@gmail.com",
+    "url": "http://crissdev.com"
+  },
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "bufferstreams": "*",
+    "replace-ext": "*",
+    "js-yaml": "*",
+    "through2": "*",
+    "xtend": "*"
+  }
+}
