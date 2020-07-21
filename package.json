@@ -1,6 +1,6 @@
 {
   "name": "gulp-json-to-yml",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Convert JSON to YAML, but with more secure dependencies",
   "main": "index.js",
   "scripts": {
