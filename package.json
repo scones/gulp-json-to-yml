@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/scones/gulp-json-to-yml",
   "author": {
-    "name": "Christopher Zimmermann",
-    "email": "topher@dandelion.org"
+    "name": "Dirk Gustke",
+    "email": "d.g+gulp-json-to-yml@asm68k.org"
   },
   "based-on-work-by-author": {
     "name": "Cristian Trifan",
