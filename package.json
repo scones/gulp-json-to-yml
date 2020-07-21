@@ -23,9 +23,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/topherzee/gulp-json-to-yml.git"
+    "url": "https://github.com/scones/gulp-json-to-yml"
   },
-  "homepage": "https://github.com/topherzee/gulp-json-to-yml",
+  "homepage": "https://github.com/scones/gulp-json-to-yml",
   "author": {
     "name": "Christopher Zimmermann",
     "email": "topher@dandelion.org"
